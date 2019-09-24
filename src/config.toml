@@ -1,3 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://arandomgerman.de/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "A Random German"
+theme = "piercer"
